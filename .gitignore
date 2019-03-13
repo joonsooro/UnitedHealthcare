@@ -7,10 +7,10 @@ __pycache__/
 *.so
 
 #PDF
-.pdf
+*.pdf
 
 #CSV
-.csv
+*.csv
 
 # Distribution / packaging
 .Python
