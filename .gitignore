@@ -12,6 +12,9 @@ __pycache__/
 #CSV
 *.csv
 
+#PNG
+*.png
+
 # Distribution / packaging
 .Python
 build/
